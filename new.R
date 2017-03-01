@@ -1,4 +1,3 @@
 library(fitdistrplus)
 
-y <- 10:1
-
+plot(1:10)
