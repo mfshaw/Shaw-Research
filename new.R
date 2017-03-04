@@ -1,4 +1,5 @@
 library(fitdistrplus)
 
-plot(1:10,main="Hello R-gitHub")
+plot(1:10,t='l',col='t',main="Hello R-gitHub")
+points(10:1,t='l',col='red')
 
